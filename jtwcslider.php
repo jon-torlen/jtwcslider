@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Jtwcslider para Wordpress
-Plugin URI: http://jonathan.com
+Plugin URI: https://github.com/jon-torlen
 Description: Agrega Jtwcslider a WooCommerce
 Version: 1.0
 Author: Jonathan Toro
